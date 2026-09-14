@@ -14,7 +14,7 @@
 
 ### 🎓 Education
 
-**BS Computer Science** — FAST-NUCES Lahore *(August 2022 – Present)*
+**BS Computer Science** — FAST-NUCES Lahore *(2022 – 2026)*
 
 ---
 
