@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Muhammad Tahnan Aamir 👋</h1>
 
 <p align="center">
-  <b>CS Student @ FAST-NUCES Lahore</b>
+  <b>CS Graduate @ FAST-NUCES Lahore</b>
 </p>
 
 <p align="center">
